@@ -1,6 +1,6 @@
 # Gac Test
 
-Exercie d'évaluation technique – GAC Technology
+Exercice d'évaluation technique – GAC Technology
 
 ## Getting Started
 
